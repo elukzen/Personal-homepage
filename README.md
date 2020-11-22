@@ -1,4 +1,3 @@
-## Elena Lukzen
 I am a PhD student in Geometry and Mathematical Physics at SISSA
 under supervision of Fedor Bogomolov and Lothar Goettsche.
 My scientific interests are mainly concentrated on the theory
